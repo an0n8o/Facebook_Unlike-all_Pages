@@ -1,7 +1,7 @@
 # Just follow these steps
 # Facebook > Settings & Privacy > Activity Log > Your Facebook Activity > Pages
 # Press F12 to load the Inspect window
-# Hover to the Console section and down at the bottom just paste these codes and Viola!
+# Switch to the Console section and down at the bottom just paste these codes and Viola!
 
 (function() {
     function unlikeAllLikedPages() {
